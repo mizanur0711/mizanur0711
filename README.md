@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanur0711" alt="mizanur0711" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
+- I have industry experience on **Php & Laravel**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
